@@ -1,5 +1,5 @@
 # Particle Visual
-This WIP code uses SFML to visualize 3D particle tracks in 2D.
+This WIP code uses SFML to visualize 3D particle tracks using a projection onto 2D and a movable camera.
 Currently, the program just visualizes some parametrically defined function over {x,y,z}.
 
-Actual physics, a readme, and more to come.
+Actual physics, installation instructions, and more to come.
